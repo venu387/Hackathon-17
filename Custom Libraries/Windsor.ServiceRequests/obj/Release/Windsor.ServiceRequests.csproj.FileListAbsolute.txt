@@ -1,9 +1,0 @@
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\bin\Release\Windsor.ServiceRequests.dll
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\bin\Release\Windsor.ServiceRequests.pdb
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\bin\Release\DataAccess.dll
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\bin\Release\Newtonsoft.Json.dll
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\bin\Release\DataAccess.pdb
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\bin\Release\Newtonsoft.Json.xml
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\obj\Release\Windsor.ServiceRequests.csprojResolveAssemblyReference.cache
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\obj\Release\Windsor.ServiceRequests.dll
-F:\Hackathon\API\CityOfWindsor.Reports\Custom Libraries\Windsor.ServiceRequests\obj\Release\Windsor.ServiceRequests.pdb
