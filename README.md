@@ -18,3 +18,5 @@ Tools
 Visual Studio 2013
 SSMS 2014
 SoapUI/Postman/WebBrowser
+
+Note: Please add your own google maps API key to the Index.cshtml file's script section before running.
